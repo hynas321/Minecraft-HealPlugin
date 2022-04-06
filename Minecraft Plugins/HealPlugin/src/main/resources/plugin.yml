@@ -1,0 +1,8 @@
+name: HealPlugin
+version: '${project.version}'
+main: _.HealPlugin.HealPlugin
+api-version: 1.18
+commands:
+  heal:
+    description: Heals a player
+
